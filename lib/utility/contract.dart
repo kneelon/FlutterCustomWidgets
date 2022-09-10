@@ -95,6 +95,8 @@ const String capPoll = 'Poll';
 const String capSettings = 'Settings';
 const String capLogout = 'Logout';
 const String capLogin = 'Login';
+const String capEmail = 'Email';
+const String capPassword = 'Password';
 const String capLegalities = 'Legalities';
 const String capAnnouncement = 'Announcement';
 const String capLeaderboard = 'Leaderboard';
@@ -153,6 +155,8 @@ const String wordItemTitleEmpty = 'Item Title cannot be empty';
 const String wordItemTitle = 'Item Title';
 const String wordItemDesc = 'Item Description';
 const String wordSignInGoogle = 'Sign-In with Google';
+const String wordInvalidEmailFormat = 'Invalid email format';
+const String wordShortPass = 'Password too short';
 
 
 const String navPostPage = 'PostPage';
